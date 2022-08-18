@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smanveer29
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning MERN Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
