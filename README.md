@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smanveer29
+- 👋 Hi, I’m Manveer
 - 👀 I’m interested in Full Stack Mobile Application Development
 - 🌱 I’m currently learning MERN Full Stack Development
 - 📫 You can reach out to me here - s.manveer290@gmail.com
