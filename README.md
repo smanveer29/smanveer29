@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @smanveer29
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m interested in Full Stack Mobile Application Development
 - 🌱 I’m currently learning MERN Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach out to me here - s.manveer290@gmail.com
 
 <!---
 smanveer29/smanveer29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
